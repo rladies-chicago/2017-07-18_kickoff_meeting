@@ -1,4 +1,4 @@
-# kickoff_meeting_2017-07-18
+# 2017-07-18_kickoff_meeting
 Materials from R-Ladies Chicago kickoff, held July 18, 2017
 
 Includes:
